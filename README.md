@@ -1,24 +1,24 @@
 # Hola-Mundo
 -------------------------------------------------------
-Investigar en 10 min como escribir un hola mundo en 3 lenguajes distintos
+# Investigar en 10 min como escribir un hola mundo en 3 lenguajes distintos
 
 -------------------------------------------------------
-Python 
+## Python 
 	print("Hola Mundo")
 -------------------------------------------------------
-Java
+## Java
 	system.out.printIn("Hola Mundo");
 
 ---------------------------------------------------------
-JavaScripts
+## JavaScripts
 	console.log("Hola Mundo");
 
 -----------------------------------------------------------
-¿Qué hace el programa Hello World?
+# ¿Qué hace el programa Hello World?
 	Es una impresión sencilla de texto, normalmente se usa a modo de prueba para ver si el código funciona correctamente
 
-¿Qué diferencias visuales notan entre JavaScript, Python y Java?
+# ¿Qué diferencias visuales notan entre JavaScript, Python y Java?
 	Cada lenguaje tiene distintas sintaxis para dar un mismo resultado
 
-¿Qué creen que significa ‘sintaxis’ después de ver estos ejemplos?
+# ¿Qué creen que significa ‘sintaxis’ después de ver estos ejemplos?
 	Es la estructura de como se escriben los códigos
