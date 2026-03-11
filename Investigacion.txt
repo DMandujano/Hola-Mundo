@@ -13,7 +13,7 @@ JavaScripts
 
 -----------------------------------------------------------
 ¿Qué hace el programa Hello World?
-	Es una impresión sencilla de texto, normalmente se usa a modo de prueba 	para ver si el código funciona correctamente
+	Es una impresión sencilla de texto, normalmente se usa a modo de prueba para ver si el código funciona correctamente
 
 ¿Qué diferencias visuales notan entre JavaScript, Python y Java?
 	Cada lenguaje tiene distintas sintaxis para dar un mismo resultado
